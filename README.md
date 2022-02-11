@@ -10,3 +10,6 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - Python
 - Rust
 - TypeScript
+- V
+- Nim
+- PureScript
